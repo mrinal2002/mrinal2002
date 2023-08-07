@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinal2002&label=Profile%20views&color=0e75b6&style=flat" alt="mrinal2002" /> </p>
 
-- 🌱 I’m currently learning **JAVA,BACK_END**
+- 🌱 I’m currently learning **JAVA(oops),BACK_END,DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
